@@ -2,16 +2,19 @@
 # INF452 Midterm
 # University of Toronto, Faculty of Information, Bachelor of Information Program
 #--------------------------------------------------------------------------------
-# Author: Sebastian Rodriguez 
+# Author: Sebastian Rodriguez
 # Prepared For: Dr. Maher Elshakankiri
+# GitHub: https://github.com/seb646/uoft-ischool-course-navigator
+# License: BSD 3-Clause License – Copyright (c) 2023, Sebastian Rodriguez
 # Date Created: October 18, 2023
 # Last Modified: November 1, 2023
 #--------------------------------------------------------------------------------
+# PROGRAM DESCRIPTION
 # This program scrapes data on courses within the University of Toronto's
 # Faculty of Information. It captures data directly from the faculty's website,
 # including course title, description, and available syllabi and makes that data
 # available to the user through a command-line interface. Users can browse the
-# faculty's course catalogue using course codes (ex: INF452). 
+# faculty's course catalogue using course codes (ex: INF452).
 #--------------------------------------------------------------------------------
 
 # Import the BeautifulSoup library to handle HTML parsing
